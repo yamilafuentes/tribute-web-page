@@ -1,11 +1,12 @@
 # Tribute Landing Page 
 
-## FreeCodeCamp Challenge
+## FreeCodeCamp Challenge for Responsive Web Design Certification
 
 Link: https://yamilafuentes.github.io/tribute-web-page/
 
 
 __Objective__: Build a Tribute Page
+
 User Stories:
 
 

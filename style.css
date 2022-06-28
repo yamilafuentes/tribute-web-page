@@ -1,22 +1,31 @@
 body {
   background-color: #eeeeee;
   text-align: center;
+  color: #333333;
 }
 
 #main {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;  
+  align-items: center;
 }
 
 h1 {
   text-align: center;
-}
+} 
 
 #img-div {
   background-color: white;
-  padding: 2%;
-  border-radius: 1%;
+  padding: 2% 2% 1% 2%;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+}
+
+#img-caption {
+  margin-top: 1%;
 }
 
 img {
@@ -30,9 +39,28 @@ img {
 #tribute-info {
   text-align: left;
   padding: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
 }
 
 li {
   margin: 2%;
 }
 
+.citas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2% 0 2% 0
+}
+
+blockquote {
+  margin: 0%;
+  width: 70%;
+}
+
+.footer {
+  color: #333333;
+}
