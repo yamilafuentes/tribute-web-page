@@ -2,9 +2,12 @@
 
 ## FreeCodeCamp Challenge
 
-Objective: Build a Tribute Page
+Link: https://yamilafuentes.github.io/tribute-web-page/
 
+
+__Objective__: Build a Tribute Page
 User Stories:
+
 
 1. Your tribute page should have an element with a corresponding id="main", which contains all other elements
 2. You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
