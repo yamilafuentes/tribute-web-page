@@ -1,0 +1,38 @@
+body {
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;  
+}
+
+h1 {
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  padding: 2%;
+  border-radius: 1%;
+}
+
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+}
+
+#tribute-info {
+  text-align: left;
+  padding: 2%;
+}
+
+li {
+  margin: 2%;
+}
+
